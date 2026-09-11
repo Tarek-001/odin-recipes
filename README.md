@@ -1,1 +1,2 @@
 # odin-recipes
+A basic recipe website, that links to a few recipes. It consist of only HTML, because that is the goal of this project. There are 3 recipes available, mostly found in the site allrecipes.com. This project was very helpful for me to remember, practice and learn html over again, revisiting what I've learn before and reminding me how I like to make websites even if there are hiccups along the way.
